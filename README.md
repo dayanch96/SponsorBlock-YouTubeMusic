@@ -1,5 +1,5 @@
 # SponsorBlock for YouTube Music
-Skip music off-topic segments
+Skip non-music segments
 
 Tweak settings can be accessed through Settings → SponsorBlock.
 
