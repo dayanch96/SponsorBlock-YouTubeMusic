@@ -8,7 +8,7 @@
 
     dispatch_once(&onceToken, ^{
         NSString *tweakBundlePath = [[NSBundle mainBundle] pathForResource:@"YTMSponsorBlock" ofType:@"bundle"];
-        NSString *rootlessBundlePath = ROOT_PATH_NS("/Library/Application Support/YTMSponsorBlock.bundle");
+        NSString *rootlessBundlePath = ROOT_PATH_NS(@"/Library/Application Support/YTMSponsorBlock.bundle");
 
         bundle = [NSBundle bundleWithPath:tweakBundlePath ?: rootlessBundlePath];
     });
