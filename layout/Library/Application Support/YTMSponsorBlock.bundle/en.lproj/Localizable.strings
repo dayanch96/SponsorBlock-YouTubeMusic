@@ -1,0 +1,16 @@
+"Enabled" = "Enabled";
+"Behavior" = "Behavior";
+"BehaviorDesc" = "SponsorBlock's action before playing segment.";
+"SelectBehavior" = "Select behavior";
+"Duration" = "Notification Duration";
+"DurationDesc" = "Duration of the segment notification.";
+"SelectDuration" = "Select duration";
+
+"Ask" = "Ask";
+"Skip" = "Skip";
+"Unskip" = "Unskip";
+"OfftopicDetected" = "Off-topic segment detected";
+"SegmentSkipped" = "Segment has been skipped";
+
+"Developer" = "Developer";
+"Support" = "Support development";

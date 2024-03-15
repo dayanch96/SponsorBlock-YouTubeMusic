@@ -1,0 +1,10 @@
+Package: com.dvntm.ytmsponsorblock
+Name: Sponsorblock for YTMusic
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: SponsorBlock for YouTube Music
+Maintainer: dvntm
+Author: dvntm
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Icon: https://i.imgur.com/mQA25La.png
