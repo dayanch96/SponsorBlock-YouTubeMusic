@@ -1,0 +1,16 @@
+"Enabled" = "启用";
+"Behavior" = "行为操作";
+"BehaviorDesc" = "SponsorBlock 在播放片段之前的动作。";
+"SelectBehavior" = "选择操作";
+"Duration" = "通知持续时间";
+"DurationDesc" = "分段通知的持续时间。";
+"SelectDuration" = "选择持续时间";
+
+"Ask" = "询问";
+"Skip" = "跳过";
+"Unskip" = "不跳过";
+"OfftopicDetected" = "检测到题外话片段";
+"SegmentSkipped" = "片段已被跳过";
+
+"Developer" = "开发者";
+"Support" = "支持开发";
